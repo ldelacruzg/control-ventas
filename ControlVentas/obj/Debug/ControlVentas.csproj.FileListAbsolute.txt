@@ -1,0 +1,229 @@
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ControlVentas.exe.config
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ControlVentas.exe
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ControlVentas.pdb
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csprojAssemblyReference.cache
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.fmrPrincipal.resources
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.Properties.Resources.resources
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.SeleccionarCliente.resources
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.GenerateResource.cache
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.exe
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.pdb
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.AgregarProducto.resources
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.CopyComplete
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.fmrVentas.resources
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\RdlCompile.cache
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\RdlCompile.compiled
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\obj\Debug\ControlVentas.fmrProductos.resources
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.AnalysisServices.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\EnvDTE.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\stdole.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Intel-User\source\repos\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ControlVentas.exe.config
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ControlVentas.exe
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ControlVentas.pdb
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.AnalysisServices.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\EnvDTE.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\stdole.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.MSXML.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csprojAssemblyReference.cache
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.AgregarProducto.resources
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.fmrProductos.resources
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.fmrVentas.resources
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.fmrPrincipal.resources
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.Properties.Resources.resources
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.SeleccionarCliente.resources
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.GenerateResource.cache
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\RdlCompile.cache
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\RdlCompile.compiled
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.CopyComplete
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.exe
+D:\LUISALFREDOPC\Documentos\UTEQ\SEGUNDO SEMESTRE\POO\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.pdb
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ControlVentas.exe.config
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ControlVentas.exe
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ControlVentas.pdb
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\EnvDTE.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\stdole.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.MSXML.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.AssemblyReference.cache
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.SuggestedBindingRedirects.cache
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.AgregarProducto.resources
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.fmrProductos.resources
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.fmrVentas.resources
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.fmrPrincipal.resources
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.Properties.Resources.resources
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.SeleccionarCliente.resources
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.GenerateResource.cache
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.CoreCompileInputs.cache
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.csproj.CopyComplete
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.exe
+D:\001\UTEQ\SEGUNDO SEMESTRE\PROG. ORIENT. OBJECT\Ejercicios\ControlVentas2\ControlVentas\ControlVentas\obj\Debug\ControlVentas.pdb
