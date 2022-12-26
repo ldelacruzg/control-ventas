@@ -1,4 +1,7 @@
-﻿using System;
+﻿using ControlVentas.Views;
+using ControlVentas.Views.Components;
+using ControlVentas.Views.Windowns.Orders;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +19,7 @@ namespace ControlVentas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fmrPrincipal());
+            Application.Run(new Main());
         }
     }
 }
