@@ -29,8 +29,10 @@ namespace ControlVentas.Views.Windowns.Orders
             dgvData.Columns.Add(product);
             dgvData.Columns.Add(price);
 
+            dgvData.ColumnHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.TopRight;
+            dgvData.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
             dgvData.Rows[0].Cells[0].Value = "Anyway";
-            dgvData.Rows[0].Cells[1].Value = 52.60;
+            dgvData.Rows[0].Cells[1].Value = Math.Round(1520.50542, 2);
         }
     }
 }
