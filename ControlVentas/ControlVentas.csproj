@@ -133,11 +133,89 @@
     <Compile Include="Views\Main.Designer.cs">
       <DependentUpon>Main.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\Windowns\Category\CategoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Category\CategoryForm.Designer.cs">
+      <DependentUpon>CategoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Category\CategoryList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Category\CategoryList.Designer.cs">
+      <DependentUpon>CategoryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Customers\CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Customers\CustomerForm.Designer.cs">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Customers\CustomerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Customers\CustomerList.Designer.cs">
+      <DependentUpon>CustomerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Employee\EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Employee\EmployeeForm.Designer.cs">
+      <DependentUpon>EmployeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Employee\EmployeeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Employee\EmployeeList.Designer.cs">
+      <DependentUpon>EmployeeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Occupations\OccupationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Occupations\OccupationForm.Designer.cs">
+      <DependentUpon>OccupationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Occupations\OccupationList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Occupations\OccupationList.Designer.cs">
+      <DependentUpon>OccupationList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Orders\OrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Orders\OrderForm.Designer.cs">
+      <DependentUpon>OrderForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\Windowns\Orders\OrderList.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Views\Windowns\Orders\OrderList.Designer.cs">
       <DependentUpon>OrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Products\ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Products\ProductForm.Designer.cs">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Products\ProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Products\ProductList.Designer.cs">
+      <DependentUpon>ProductList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Suppliers\SupplierForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Suppliers\SupplierForm.Designer.cs">
+      <DependentUpon>SupplierForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windowns\Suppliers\SupplierList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Windowns\Suppliers\SupplierList.Designer.cs">
+      <DependentUpon>SupplierList.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="AgregarProducto.resx">
       <DependentUpon>AgregarProducto.cs</DependentUpon>
@@ -176,6 +254,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Windowns\Orders\OrderList.resx">
       <DependentUpon>OrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Windowns\Suppliers\SupplierList.resx">
+      <DependentUpon>SupplierList.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="dsDatos.xsc">
       <DependentUpon>dsDatos.xsd</DependentUpon>
